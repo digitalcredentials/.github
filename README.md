@@ -14,4 +14,9 @@ You are welcome to contribute to our current projects, including:
 * [Learner Credential Wallet](https://github.com/digitalcredentials/learner-credential-wallet) – a cross-platform iOS and Android mobile application for storing and sharing digital learner credentials.
 * [VerifierPlus](https://github.com/digitalcredentials/web-verifier-plus) – allows users to verify any supported digital academic credential.
 
-Comments? Concerns? Compliments? 
+Comments? Concerns? Compliments? Get in touch! [dcc-support@mit.edu](mailto:dcc-support@mit.edu)
+
+## License
+MIT License Copyright (c) 2021 Massachusetts Institute of Technology
+
+All files located in external directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above.
