@@ -5,7 +5,7 @@
 We are building an infrastructure for digital academic credentials that can support the education systems of the future. Find out more about us at [our website](https://digitalcredentials.mit.edu/).
 
 Start here:
-* [Code of Conduct](https://wiki.dcconsortium.org/app/page/1SYYIdVWKAdBIBx3BwSFWZKytJ9zPprAZFTbD_7Bfo4Y?p=1h1VJHHv2zSe0n9Ltg-KQevSuqWbGcExy)
+* [Code of Conduct](https://wiki.dcconsortium.org/app/page/1SYYIdVWKAdBIBx3BwSFWZKytJ9zPprAZFTbD_7Bfo4Y)
 * [Technical documentation](https://github.com/digitalcredentials/docs)
 * [W3C Verifiable Credentials Data Model](https://github.com/digitalcredentials/vc-data-model)
 
