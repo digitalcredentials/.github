@@ -6,7 +6,7 @@ We are building an infrastructure for digital academic credentials that can supp
 
 Start here:
 * [Code of Conduct](https://wiki.dcconsortium.org/app/page/1SYYIdVWKAdBIBx3BwSFWZKytJ9zPprAZFTbD_7Bfo4Y)
-* [DCC Verifiable Credentials Issuing System Deployment Guide](https://github.com/digitalcredentials/docs](https://github.com/digitalcredentials/docs/blob/main/deployment-guide/DCCDeploymentGuide.md)
+* [DCC Verifiable Credentials Issuing System Deployment Guide](https://github.com/digitalcredentials/docs/blob/main/deployment-guide/DCCDeploymentGuide.md)
 * [W3C Verifiable Credentials Data Model](https://github.com/digitalcredentials/vc-data-model)
 
 You are welcome to contribute to our current projects, including:
