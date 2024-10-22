@@ -2,7 +2,7 @@
 <img alt="Digital Credentials Consortium" src="https://digitalcredentials.mit.edu/images/DCC_navbar-logo.png" width="200px"/>
 
 ## Hello! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
-We are building an infrastructure for digital academic credentials that can support the education systems of the future. Find out more about us at [our website](https://digitalcredentials.mit.edu/).
+The Digital Credentials Consortium is advancing the use and understanding of portable, verifiable digital academic credentials in higher education through open source technology development and leadership, research, and advocacy. Find out more about us at [our website](https://digitalcredentials.mit.edu/).
 
 Start here:
 * [Code of Conduct](https://wiki.dcconsortium.org/app/page/1SYYIdVWKAdBIBx3BwSFWZKytJ9zPprAZFTbD_7Bfo4Y)
